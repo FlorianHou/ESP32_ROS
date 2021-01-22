@@ -10,7 +10,7 @@ kalibrierung des Joystick
 
 
 ## SN74(sn74hc595n)
-SN74 mit Zeiger
+SN74 mit Zeiger  
 8bit zu SN74 einschreiben durch Shiftout()
 
 
